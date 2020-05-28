@@ -22,7 +22,7 @@ public class STRINGBUILDER {
 	r.append("java is my favourite language");  
 	System.out.println(r.capacity());
 	r.ensureCapacity(50);
-	System.out.println(r.capacity());
+
 			
 
 	}
