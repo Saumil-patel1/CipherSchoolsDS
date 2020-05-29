@@ -10,6 +10,7 @@ public class printlinkedlist {
 			System.out.print(current.data+"===> ");
 			current= current.next;
 		}
+		
 		System.out.println(current);
 	}
 private static	class LIstNode{
