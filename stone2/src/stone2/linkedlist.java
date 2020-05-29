@@ -10,6 +10,7 @@ class Node{
 }
 
 public class linkedlist {
+	
 
 	public static void main(String[] args) {
 Node head=new Node(1);		
@@ -35,7 +36,6 @@ while(temp!=null) {
 	
 }
 System.out.println("no of nodes"+count);
-
 
 	}
 
